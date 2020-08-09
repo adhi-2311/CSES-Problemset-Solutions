@@ -1,8 +1,10 @@
+//Link to the question: https://cses.fi/problemset/task/1621
 import java.util.*;
 import java.io.*;
 import java.math.*;
 public class Cses
 {  
+   
    /*DISTINCT NUMBERS*/
     static int MOD = (int)(1e9 + 7);
     static void shuffle(long arr[],int n)
