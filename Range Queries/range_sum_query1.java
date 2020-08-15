@@ -4,7 +4,7 @@ import java.math.*;
 public class Cses
 {  
     static int MOD = (int)(1e9 + 7);
-    public static void do_it()throws IOException
+    public static void  process()throws IOException
     {
      int n=ni();
      int q=ni();
@@ -42,7 +42,7 @@ public class Cses
  
         long s = System.currentTimeMillis();
       //int T=ni(); while(T-->0)
-            do_it();
+            process();
         out.flush();
         if(!oj)
             System.out.println(System.currentTimeMillis()-s+"ms");
