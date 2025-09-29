@@ -1,0 +1,17 @@
+- Sliding Window Sum
+    - Sliding window technique + two pointer
+- Sliding Window Minimum
+    - Sliding window technique + priority queue
+- Sliding Window Xor
+    - Sliding window technique + XOR properties
+- Sliding Window Or
+    - Sliding window technique + Bit mask(bit freq)
+- Sliding Window Distinct Values
+    - Sliding window technique + Set
+- Sliding Window Mode
+    - Sliding window technique + TreeMap
+- Sliding Window Mex
+- Sliding Window Median
+- Sliding Window Cost
+- Sliding Window Inversions
+- Sliding Window Advertisemen
